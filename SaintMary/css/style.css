@@ -1,0 +1,9 @@
+.mary_img {
+  min-height: 50vh;
+  width: 50vh;
+  background-image: url(images/maryimg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
