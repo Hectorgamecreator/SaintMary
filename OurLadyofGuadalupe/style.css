@@ -1,0 +1,52 @@
+body {
+  background-image: url(https://live.staticflickr.com/2901/14675535465_fb9e33c2e2_h.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Noto Serif", serif;
+}
+
+h1 {
+  color: pink;
+  text-shadow: 1px 1px 1px red, 2px 2px 1px red;
+}
+
+p {
+  color: white;
+  text-shadow: 1px 1px 1px red, 2px 2px 1px red;
+}
+
+form {
+  color: white;
+  text-shadow: 1px 1px 1px red, 2px 2px 1px red;
+}
+
+.mary_img {
+  min-height: 50vh;
+  width: 50vh;
+  background-image: url(images/maryimg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.rose_img {
+  min-height: 50vh;
+  width: 50vh;
+  background-image: url(images/IMG_1462.png);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  float: left;
+  clear: left;
+}
+.rose_img2 {
+  min-height: 50vh;
+  width: 50vh;
+  background-image: url(images/IMG_1462.png);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  float: right;
+  clear: right;
+}
